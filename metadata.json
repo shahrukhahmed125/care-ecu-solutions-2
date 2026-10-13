@@ -1,0 +1,8 @@
+{
+  "name": "Car ECU Solutions",
+  "description": "Specialist automotive electronics, vehicle diagnostics, security, ECU remapping, coding, and module repair in Romford, Essex, UK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
